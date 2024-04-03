@@ -11,16 +11,16 @@ import java.util.stream.Collectors;
 public class CollectionsStreams {
 
     //Do not delete or modify the variables otherwise the tests will fail!
-    public static Customer customer1 = new Customer(1L, "Stefan Walker", 1);
-    public static Customer customer2 = new Customer(2L, "Daija Von", 1);
-    public static Customer customer3 = new Customer(3L, "Ariane Rodriguez", 1);
-    public static Customer customer4 = new Customer(4L, "Marques Nikolaus", 2);
-    public static Customer customer5 = new Customer(5L, "Rachelle Greenfelder", 0);
-    public static Customer customer6 = new Customer(6L, "Larissa White", 2);
-    public static Customer customer7 = new Customer(7L, "Fae Heidenreich", 1);
-    public static Customer customer8 = new Customer(8L, "Dino Will", 2);
-    public static Customer customer9 = new Customer(9L, "Eloy Stroman", 1);
-    public static Customer customer10 = new Customer(10L, "Brisa O'Connell", 1);
+    public static Customer customer1 = new Customer(1L, "Bush marim", 1);
+    public static Customer customer2 = new Customer(2L, "roqe van", 1);
+    public static Customer customer3 = new Customer(3L, "Arial Rod", 1);
+    public static Customer customer4 = new Customer(4L, "Marc Mew", 2);
+    public static Customer customer5 = new Customer(5L, "Roji Rose", 0);
+    public static Customer customer6 = new Customer(6L, "Lisa White", 2);
+    public static Customer customer7 = new Customer(7L, "Frank Anne", 1);
+    public static Customer customer8 = new Customer(8L, "Dew Wish", 2);
+    public static Customer customer9 = new Customer(9L, "Eastr Stre", 1);
+    public static Customer customer10 = new Customer(10L, "Breq lams", 1);
 
     public static List<Customer> customers = List.of(
             customer1, customer2, customer3, customer4, customer5, customer6, customer7, customer8, customer9, customer10
