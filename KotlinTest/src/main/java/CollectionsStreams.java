@@ -26,13 +26,13 @@ public class CollectionsStreams {
             customer1, customer2, customer3, customer4, customer5, customer6, customer7, customer8, customer9, customer10
     );
 
-    public static Product product1 = new Product(1L, "omnis quod consequatur", "Games", 184.83);
-    public static Product product2 = new Product(2L, "vel libero suscipit", "Toys", 12.66);
-    public static Product product3 = new Product(3L, "non nemo iure", "Grocery", 498.02);
-    public static Product product4 = new Product(4L, "voluptatem voluptas aspernatur", "Toys", 536.80);
-    public static Product product5 = new Product(5L, "animi cum rem", "Games", 458.20);
-    public static Product product6 = new Product(6L, "dolorem porro debitis", "Toys", 146.52);
-    public static Product product7 = new Product(7L, "aspernatur rerum qui", "Books", 656.42);
+    public static Product product1 = new Product(1L, "abc", "Games", 184.83);
+    public static Product product2 = new Product(2L, "def", "Toys", 12.66);
+    public static Product product3 = new Product(3L, "ghi", "Grocery", 498.02);
+    public static Product product4 = new Product(4L, "jkl", "Toys", 536.80);
+    public static Product product5 = new Product(5L, "mno", "Games", 458.20);
+    public static Product product6 = new Product(6L, "pqr", "Toys", 146.52);
+    public static Product product7 = new Product(7L, "wxy", "Books", 656.42);
     public static Product product8 = new Product(8L, "deleniti earum et", "Baby", 41.46);
     public static Product product9 = new Product(9L, "voluptas ut quidem", "Books", 697.57);
     public static Product product10 = new Product(10L, "eos sed debitis", "Baby", 366.90);
